@@ -1,0 +1,38 @@
+.container-flex{
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: column wrap;
+    height: 250px;
+    width: 250px;
+    border: #0AA1DD 30px solid;
+    
+div{
+    height: 500px;
+    width: 500px;
+    border-radius: 50px solid blue;
+
+    }
+
+}
+.class1{
+    margin: 9px;
+   background-color: #F2F2F2;
+   height: 20px;
+   width: 170px;
+}
+.class2{
+    background-color: #0AA1DD;
+    color: aliceblue;
+    font-weight: bold;
+    width: 180px;
+    height: 30px;
+    margin: 9px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.forgot{
+    text-decoration: underline;
+    text-align: center;
+}
